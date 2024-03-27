@@ -29,8 +29,7 @@ const BookLoader = () => {
 
     return (
         <div className="d-flex align-items-center">
-            <strong role="status">Loading books...</strong>
-            <div className="spinner-border ms-auto" aria-hidden="true"></div>
+            <h2>Book Library</h2>
         </div>
     );
 };
